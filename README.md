@@ -2,7 +2,7 @@
 - 此SDK仅适合unity导出iOS系统和安卓系统软件的情况，无法兼容Windows系统。
 - This SDK is designed exclusively for exporting Unity projects to iOS and Android systems and is not compatible with the Windows operating system.
 
-- 此项目中已包含Unity项目的源文件夹Assets和ProjectSettings. 请将此文件夹导入unity编辑器即可.  
+- 此项目中已包含Unity项目的源文件夹Assets和ProjectSettings. 请将此文件夹导入unity编辑器即可.  Unity的版本：Unity 2019.4.
 - This project already includes the Unity project's source folder, Assets, and ProjectSettings. Simply import this folder into the Unity editor to get started.
 
 - 导入unity编辑器之后，请根据文档进行配置，建议把文档喂给大模型，全自动完成配置。文档：Unity3DBrainLinkProSDKV1.0.5_cn.docx，Unity3DBrainLinkProSDKV1.0.5_EN.docx
